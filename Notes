@@ -6,3 +6,5 @@ It runs automatically when an object of the class is created.
 ✅Attributes (Data Members) like id, salary, and designation are initialized automatically when we create an object of the class using the constructor (__init__()).
 ✅Methods (Functions) like travel() must be called manually using the object name (sam.travel("Dhaka")).
 ✅Python is object-oriented because it’s designed to model real-world problems using classes and objects, making code more organized, reusable, and scalable.
+✅A function is a block of reusable code that performs a task.
+✅A method is a function that is defined inside a class.

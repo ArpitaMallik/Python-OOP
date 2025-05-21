@@ -9,6 +9,8 @@ class employee:
 
 #create an object of the class
 sam = employee()
+sam.name = 'Sam Doe'
+print(sam.name)
 
 #accessing the attributes of the class
 print(sam.designation)

@@ -1,9 +1,10 @@
 class chatbook:
     def __init__(self):
+        self.__name = 'Sam' # private attribute(encapsulated)
         self.email = ''
         self.password = ''
         self.loggedIn = False
-        self.menu()
+        # self.menu()
 
     def menu(self):
         user_input = input("""Welcome to Chatbook! How would you like to proceed?
